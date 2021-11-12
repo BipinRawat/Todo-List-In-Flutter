@@ -1,14 +1,12 @@
-# Todo App
-- A Flutter application developed to add todo tasks and handles it 
-- I used Sqflite as a local database to store all the tasks
-- I used flutter_slidable package to make task item slidable and can be dismissed
-- I used Bloc as a state management
-
-![TodoApp2](https://user-images.githubusercontent.com/81472165/134563916-d201fd85-0636-46c5-a272-21970fdc3d37.gif)
-
-
-feel free to contact me for any updates or fixes that needs to be done
-
-
-
-
+<table>
+  <tr>
+    <td>Splash Screen</td>
+     <td>New Task will Appear here</td>
+     <td>Add task bottom sheet</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/68145747/141454341-f098c384-4acb-4809-a6a0-e2edda2f32d8.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/68145747/141454417-ec96fe5f-6d10-4842-800d-bfe4eac36262.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/68145747/141454461-3b13d000-fea5-4d00-a4fb-5a945582d3b1.png" width=270 height=480></td>
+  </tr>
+ </table>
